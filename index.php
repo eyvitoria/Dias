@@ -109,7 +109,7 @@ $mes = $_POST['mes'];
             break;
     }    
 $ano = $_POST['ano'];
-    echo "$dia - $mes de $ano";
+    echo "$dia - $mes/$ano";
 
 ?>
 </body>
