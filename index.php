@@ -7,6 +7,7 @@
 </head>
 <body>
 <form method="POST"> 
+    <label for="a">Informe os dia e mês em português:</label><br><br>
     <label for="a">Dia</label>
     <input type="text" name="dia"><br><br>
     <label for="a">Mês</label>
